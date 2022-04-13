@@ -1,2 +1,2 @@
-# Customer-Web-Journey-Analytics-for-MonaBanq
-Hackathon Project using Python &amp; Power BI
+# Customer-Web-Journey-Analysis-for-MonaBanq
+Machine Learning problem using Python & Power BI
